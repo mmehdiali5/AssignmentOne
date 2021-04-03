@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">Assignment1</string>
+    <string name="alphabets_master">ALPHABETS MASTER</string>
+    <string name="background_image">Background Image</string>
+    <string name="message">"An Interactive Alphabets Learning App for Kids "</string>
+    <string name="start_button">START APP</string>
+    <string name="start_Button_text">START APP</string>
+    <string name="alphabetA">A</string>
+    <string name="alphabetB">B</string>
+    <string name="alphabetC">C</string>
+    <string name="alphabetD">D</string>
+    <string name="alphabetE">E</string>
+    <string name="alphabetF">F</string>
+    <string name="alphabetG">G</string>
+    <string name="alphabetH">H</string>
+    <string name="alphabetI">I</string>
+    <string name="alphabetJ">J</string>
+    <string name="alphabetK">K</string>
+    <string name="alphabetL">L</string>
+    <string name="alphabetM">M</string>
+    <string name="alphabetN">N</string>
+    <string name="alphabetO">O</string>
+    <string name="alphabeP">P</string>
+    <string name="alphabetQ">Q</string>
+    <string name="alphabetR">R</string>
+    <string name="alphabetS">S</string>
+    <string name="alphabetT">T</string>
+    <string name="alphabetU">U</string>
+    <string name="alphabetV">V</string>
+    <string name="alphabetW">W</string>
+    <string name="alphabetX">X</string>
+    <string name="alphabetY">Y</string>
+    <string name="alphabetZ">Z</string>
+    <string name="alphabetP">P</string>
+    <string name="alphabetMaster">ALPHABETS MASTER</string>
+    <string name="sampleValue">AA</string>
+    <string name="sample2">SAMPLE</string>
+    <string name="heading">ALPHABETS MASTER</string>
+
 </resources>
